@@ -20,6 +20,7 @@ command line argument.
 This is the result of running the roundTheWorld program that places the robot at the center, moves it
 to all four map corners and returns to the center.
 
+~~~~
 ===== REA Robot =====
 --- Running 'data\roundTheWorld.txt' ---
 PLACE 2,2,NORTH
@@ -73,6 +74,7 @@ REPORT
 0,4,NORTH
 2,2,NORTH
 --- Complete ---
+~~~~
 
 ## Code Structure
 
